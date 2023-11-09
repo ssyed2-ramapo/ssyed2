@@ -1,5 +1,5 @@
 # ssyed2
-My personal repository
+## My personal repository
 
 
 IT Management Major at Ramapo College of New Jersey
