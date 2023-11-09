@@ -2,10 +2,10 @@
 ## My personal repository
 
 
-IT Management Major at Ramapo College of New Jersey
+🎓IT Management Major at Ramapo College of New Jersey
 
-Currently Learning:
+📚Currently Learning:
 Python
 
-Currently Working on:
+🛠Currently Working on:
 INFO-233-01 Group Project
